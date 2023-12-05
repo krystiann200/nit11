@@ -1,4 +1,9 @@
 {
+    "image1": {
+        "data": "hwQQABAAAAD//8/M/P//////zLvL/////8/cvbv8////vxG9u/z//787ETG7y///vzMRM73L/7s7MzMT3cu72zszMxPRyxHdOzMzM7HLERE7ETMzs8u7Eb8RMRG7y7+7vxsxEb3L////vDPRvfz////PvNu9/P/////Mu8v//////8/M/P///w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "nit1"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",

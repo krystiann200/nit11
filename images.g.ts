@@ -4,18 +4,18 @@ namespace myImages {
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "image1":
-            case "nit1":return img`
+            case "nit444":return img`
 f f f f f f b b b b f f f f f f 
 f f f f b b 3 3 3 3 b b f f f f 
 f f f f b 3 3 3 3 1 1 b c f f f 
 f f c b 3 3 3 3 3 1 1 1 b c f f 
-f c c 1 1 1 3 3 3 3 1 1 3 c c f 
+f c c 1 1 f 3 3 3 f 1 1 3 c c f 
 c c d 1 1 1 3 3 3 3 3 3 3 b c c 
 c b d d 1 3 3 3 3 3 1 1 1 b b c 
-c b b b 3 3 1 1 3 3 1 1 d d b c 
-c b b b b d d 1 1 3 b d d d b c 
-f c b b b b d d b b b b b b c f 
-f f c c b b b b b b b b c c f f 
+c b b b 3 f f f f f 1 1 d d b c 
+c b b b b f d 1 1 f b d d d b c 
+f c b b b f f f f f b b b b c f 
+f f c c b b b f f b b b c c f f 
 f f f f c c c c c c c c f f f f 
 f f f f f f b 1 1 b f f f f f f 
 f f f f f f b 1 1 b b f f f f f 
